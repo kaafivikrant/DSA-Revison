@@ -1,4 +1,4 @@
-# DSA Revision
+# DSA Revision in C++, Typescript, Python, Go
 
 ## Sorting Algorithms
 - **Bubble Sort**
