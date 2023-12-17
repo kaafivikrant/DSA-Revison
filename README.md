@@ -24,7 +24,7 @@
 - **Prim's Algorithm (Minimum Spanning Tree)**
 - **Kruskal's Algorithm (Minimum Spanning Tree)**
 - **Topological Sorting Strongly Connected Components (SCC)**
-- **A* Algorithm (Heuristic Search)**
+- **A\* Algorithm (Heuristic Search) **
 
 ## Dynamic Programming
 - **Fibonacci Sequence**
